@@ -81,7 +81,7 @@ const work = await Promise.all(
         </ul>
       </section>
 
-      <section class="animate space-y-6">
+      <!-- <section class="animate space-y-6">
         <div class="flex flex-wrap gap-y-2 items-center justify-between">
           <h5 class="font-semibold text-black dark:text-white">
             Work Experience
@@ -108,9 +108,9 @@ const work = await Promise.all(
             </li>
           ))}
         </ul>
-      </section>
+      </section> -->
 
-      <section class="animate space-y-6">
+      <!-- <section class="animate space-y-6">
         <div class="flex flex-wrap gap-y-2 items-center justify-between">
           <h5 class="font-semibold text-black dark:text-white">
             Recent projects
@@ -126,7 +126,7 @@ const work = await Promise.all(
             </li>
           ))}
         </ul>
-      </section>
+      </section> -->
 
       <section class="animate space-y-4">
         <h5 class="font-semibold text-black dark:text-white">
@@ -139,14 +139,14 @@ const work = await Promise.all(
           </p>
         </article>
         <ul class="flex flex-wrap gap-2">
-          {SOCIALS.map(SOCIAL => (
+          <!-- {SOCIALS.map(SOCIAL => (
             <li class="flex gap-x-2 text-nowrap">
               <Link href={SOCIAL.HREF} external aria-label={`${SITE.NAME} on ${SOCIAL.NAME}`}>
                 {SOCIAL.NAME}
               </Link>
               {"/"}
             </li>
-          ))}
+          ))} -->
           <li class="line-clamp-1">
             <Link href={`mailto:${SITE.EMAIL}`} aria-label={`Email ${SITE.NAME}`}>
               {SITE.EMAIL}
