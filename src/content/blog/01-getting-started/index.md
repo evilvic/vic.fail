@@ -1,73 +1,13 @@
 ---
-title: "Getting started"
-description: "Hit the ground running."
-date: "Mar 22 2024"
+title: "Ideas, proyectos y salud mental: construyendo en público"
+description: "Una mente inquieta, recursos finitos y la búsqueda de equilibrio."
+date: "Sep 8 2024"
 ---
 
-The basic configuration of Nano is pretty simple.
+**Quiero hacerlo todo.** A veces es difícil controlarme. Me llegan ideas a la cabeza y siento la necesidad de actuar. **Con una urgencia tremenda.** Jugar todos los juegos de deducción que pueda encontrar. Fundar una biblioteca digital, la primera en México dentro de libby. Leer todos los libros de Malcolm Gladwell. Hacer una app para trackear los medicamentos de mi perro. Aprender Toki Pona. Registrar cuanto tiempo paso en cada espacio de mi casa o los lugares de Querétaro que ya he visitado. Varias veces a la semana surge una nueva inquietud. **Una cabeza que va tres pasos adelante.** Obligaciones que debo cumplir **y recursos finitos: tiempo, energía (física y emocional), ¿dinero?**
 
-Edit `src/consts.ts`
+Llevo varios años intentando hacer esto. Un espacio donde pueda compartir. La prueba son los siete repositorios previos en GitHub (y muchos que he borrado). Desde que aprendí a programar: Next, Remix, 11ty, Astro y antes muchas otras plataformas. **El tema es este: al tener tantos intereses, es complejo ser constante y terminar los proyectos que empiezo.** Me gusta mucho el concepto de *Accountability* y el *Build in Public*. Ya tengo algunos controles para no inundarme de más cosas empezadas, pero me falta ese seguro que me puede dar una audiencia para concretar esos intentos.
 
-Customize the base site
+Debo ser honesto. Creo que **hablar de salud mental es algo muy importante** y, al igual que muchas personas, me toca convivir con una mente y un cuerpo que a veces no responden. Lo que implica una carga emocional fuerte al querer hacer y no poder. **Ser funcional.**
 
-```ts 
-// src/consts.ts
-
-export const SITE: Site = {
-  NAME: "Astro Nano",
-  EMAIL: "markhorn.dev@gmail.com",
-  NUM_POSTS_ON_HOMEPAGE: 3,
-  NUM_WORKS_ON_HOMEPAGE: 2,
-  NUM_PROJECTS_ON_HOMEPAGE: 3,
-};
-```
-
-| Field | Req | Description |
-| :---- | :-- | :-----------|
-| NAME | Yes | Displayed in header and footer. Used in SEO and RSS. |
-| EMAIL | Yes | Displayed in contact section. |
-| NUM_POSTS | Yes | Limit num of posts on home page. |
-| NUM_WORKS | Yes | Limit num of works on home page. |
-| NUM_PROJECTS | Yes | Limit num of projects on home page. |
-
-Customize your page metadata
-
-```ts 
-// src/consts.ts
-
-export const HOME: Metadata = {
-  TITLE: "Home",
-  DESCRIPTION: "Astro Nano is a minimal and lightweight blog and portfolio.",
-};
-```
-
-| Field | Req | Description |
-| :---- | :-- | :-----------|
-| TITLE | Yes | Displayed in browser tab. Used in SEO and RSS. |
-| DESCRIPTION | Yes | Used in SEO and RSS. |
-
-Customize your social media
-
-```ts 
-// src/consts.ts
-
-export const SOCIALS: Socials = [
-  { 
-    NAME: "twitter-x",
-    HREF: "https://twitter.com/markhorn_dev",
-  },
-  { 
-    NAME: "github",
-    HREF: "https://github.com/markhorn-dev"
-  },
-  { 
-    NAME: "linkedin",
-    HREF: "https://www.linkedin.com/in/markhorn-dev",
-  }
-];
-```
-
-| Field | Req | Description |
-| :---- | :-- | :-----------|
-| NAME | Yes | Displayed in contact section as a link. |
-| HREF | Yes | External url to social media profile. |
+En ese sentido, este espacio es una forma de liberar parte de esa presión, de ordenar mis ideas, dejar constancia de lo que voy logrando, pero también de lo que no. **Quiero lograr un balance** entre la urgencia por construir y la realidad de que no podemos hacer todo a la vez. También es un compromiso: ser transparente. Este es un intento de construir en público. Con el deseo de tener una comunidad en la cual apoyarme. **Si llegaste aquí, bienvenido a mi mundo de ideas interminables.**
