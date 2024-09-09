@@ -5,6 +5,6 @@ import sitemap from "@astrojs/sitemap";
 import tailwind from "@astrojs/tailwind";
 
 export default defineConfig({
-  site: "https://vic.fail",
+  site: "https://vic.monster",
   integrations: [mdx(), sitemap(), tailwind()],
 });
