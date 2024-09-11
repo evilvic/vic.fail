@@ -1,0 +1,26 @@
+---
+title: ""
+description: ""
+date: "Sep 11 2024"
+draft: true
+---
+
+-- ¡Voy a sacar a pasear a perrito!
+-- ¿Qué, anda inquieto?
+-- No... el que anda inquieto soy yo...
+
+Caminar ayuda. Siempre. Cuando algo no me deja de preocupar. Sigo inquieto. Pero menos. Al menos ahora puedo sentarme a escribir. Lo que se me ocurrió fue escribir el problema que estoy tratando de resolver. Pues no se como seguir, por donde continuar, qué es lo importante, como moverme, etc. La incertidumbre me bloquea. Muchas veces eso hace que no haga nada.
+
+Soy alguien obsesionado con registrar absolutamente todo lo que hace. No sé si es un razgo del TOC. Pero me apasionan esas personas que pasan documentando cosas toda su vida. Me gusta ver esos datos representados. Siento un escalofrío al ver tanto tiempo invertido por una persona condensado en puntos, ejes, metricas, líneas y escalas. Ahora que si aderezamos con una buena presentación visual qeu ayuda a entender la magnitud de los datos, su significado o los embellece con la facilitación del entendimiento. Orgasmo.
+
+Lamentablemente no he sido el mejor candidato para llevar a cabo este tipo de empresas. Si, me gusta medirlo todo, me gusta registrarlo todo. Pero el razgo perfeccionista hace que el ejercicio sea extenueante. Termina perdiendose e incluso muchas veces finado. Siento que, o al menos en mi caso, el registro de los datos es demasiado, no encuentro la palabra, rugoso, complejo, dificil. Tiene demasiada fricción. aspero.
+
+Si, hoy existen muchas tecnologías y sensores que facilitan las cosas. Ahora mismo Rize calcula el tiempo que trabajo. Mi editor lleva el numero de palabras que escribo. Mi reloj mide desde mi frecuencia cardiaca hasta los pasos y ruta que ejecute en mi caminata. Tantos datos de manera instantánea. Automatizados. En la mañana por ejemplo le dije a Siri "Hey rehsitra mi peso de 100.2 kilogramos". Mágico. Pero si entonto hacerlo con la cantidad de agua que consumo, me dice que puede abrir la app de salud y tengo que hacerlo de manera manual. Esa es una fricción, un paso más que depende de que me acuerde de entrar y registrar. Si pasan unas tomas sin registro, ya no es perfecto. No vale la pena continuar hasta que me entre la idea de nuevo.
+
+¿Por qué me interesa tanto esa información? Pues si en este punto no te has dado cuenta que soy un nerd y fan, también esta el sustento de que el conocimiento me puede llevar a tomar mejores decisiones. Y este texto empieza ejemplificando lo que me cuesta. Y si nos vamos a el área específica de mi salud, donde hay tantas cosas que pueden desequilibrarme como la cantidad de sueño, ejercicio, estrés, medicamentos y muchas otras cosas más. Medirme para buscar la causa, para asegurarme que cumplo y para ver areas de oportunidad me parece de vital importancia. Si, la carga que le pongo a la tarea en si es un problema. Es algo que estoy trabajando.
+
+Una de las cosas con las que he lideado los ultimos 20 años es con mi peso y mi alimentación. He bajado y subido de peso en múltiples ocasiones. Sin lograr que una apariencia "saludable" dure lo suficiente. Me gusta mucho comer. Pero asi como me gusta, me cuesta regularme. A veces es un mecanismo de descarga de la ansiedad. La cosa es que los efectos son silenciosos, paulatinos. No te levantas al día siguiente y te ves al espejo dandote cuenta del cambio. Unas días despues talvez molestias intestinales, unas semanas quizas cambios de humor, unos meses y necesitas ropa nueva. Tal vez te subes a la báscula y sientes que puedes regresar rápido. Recuperar. Pero el cambio es profundo. Tus habitos. Tu relación con la comida. Cambiaron. Y hay una capa abajo, tu salud metabólica que se adapta y trabaja en la medida de lo posible para compensar el cambio. Pero eventualmente el sistema se cansa y decae tu salud.
+
+He ido varias veces al nutriólogo, generalmente en conjunto empiezas a hacer ejercicio. Y con esfuerzo empiezas a ver resultados. Pero la aproximación en genral que hacemos es llevar un régimen alimenticio restrrictivo, dictado por el especialista. Que esta basado, en lo que necesita tu cuerpo. Estoy hablando de gente que sabe, porque por todos lados hay charlatanes. Te miden, te pesan, calculan e ingenian lo que va a entrar a tu cuerpo. Tu debes seguir al pie de la letra. Es un esfuerzo grande. Dinero, tiempo y constancia son fundamentales. Algunos logran ver resultados, incluso hay quien llega a la meta. Pero los que logran mantenerse y cambiar su estilo de vida me imagino que son los menos. Me doy cuenta de que necesito estos números.
+
+¿Te das cuenta del problema? Dejamos una gran responsabilidad en otro. Quien decide qué, cuanto, como y cuando comemos es el nutriologo. Y auunque se nos enseñen los principios de una alimentación saludable. En la práctica no los tenemos en la cabeza, si los tenemos muchas veces estan sesgados, como que hay alimentos buenos y malos. Necesitamos aprender a comer. Trabajar en nuestra relación con la comida. Ser participantes activos de nuestra alimentación. Ser consientes. Tomar mejores decisiones.
